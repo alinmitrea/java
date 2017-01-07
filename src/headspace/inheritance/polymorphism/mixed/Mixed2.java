@@ -1,4 +1,4 @@
-package headspace.inheritance.polymorphism;
+package headspace.inheritance.polymorphism.mixed;
 
 /**
  * Created by micro on 04/01/2017.
